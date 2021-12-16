@@ -1,0 +1,7 @@
+{
+  "../node_modules/nuxt3/dist/app/entry.mjs": {
+    "file": "entry-56ef24d9.mjs",
+    "src": "../node_modules/nuxt3/dist/app/entry.mjs",
+    "isEntry": true
+  }
+}
